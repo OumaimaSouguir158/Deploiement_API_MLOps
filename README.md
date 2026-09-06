@@ -1,4 +1,4 @@
-# 🟡 Projet 2 — Déploiement d'un modèle de Machine Learning en API (MLOps)
+#  Projet 2 — Déploiement d'un modèle de Machine Learning en API (MLOps)
 
 ## Objectif
 Exposer un modèle entraîné (ici le modèle de churn du projet 1) via une API REST, conteneurisée pour un déploiement reproductible.
